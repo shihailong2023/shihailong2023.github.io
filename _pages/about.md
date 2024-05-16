@@ -19,3 +19,19 @@ Conference on Artificial Intelligence (**IJCAI 2024**), Jeju, South Korea, 3th-9
 * Luo Ji#, Jiayu Mao#, **Hailong Shi** *, Qian Li, Hongxia Yang. An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation, The 46th European Conference on Information Retrieval (**ECIR2024**), Glasgow, Scotland, 24th-28th March, 2024.
 * Wanjin Feng, **Hailong Shi**, Peilin Zhao, Xingyu Gao *. Mixtron: Bandit Online Multiclass Prediction with Implicit Feedback, International Conference on Data Mining (**ICDM2023**), Shanghai, China, 1th-4th December, 2023.
 
+
+## 在读学生（含联合指导）
+* 杜文倩，硕博连读，2020级
+* 郭琦，硕博连读，2020级
+* 张宝斌，博士生，2023级
+* 陈思宇，博士生，2023级
+* 潘博诚，博士生，2024级
+* 王子元，直博生，2024级
+* 黎欢，硕士生，2022级
+* 李保稷，硕士生，2022级
+* 孟庆哲，硕士生，2023级
+* 宋小莹，硕士生，2023级
+* 许童，硕士生，2024级
+* 朱卓宁，硕士生，2024级
+* 原浩，硕士生，2024级
+* 李富春，硕士生，2024级
