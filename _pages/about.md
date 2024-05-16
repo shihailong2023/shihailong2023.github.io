@@ -18,7 +18,7 @@ redirect_from:
 
 ## Selected Journal Publications
 * Huan Li, **Hailong Shi** *, Xingyu Gao *. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint
-Conference on Artificial Intelligence (IJCAI 2024), Jeju, South Korea, 3th-9th August, 2024.
+Conference on Artificial Intelligence (**IJCAI 2024**), Jeju, South Korea, 3th-9th August, 2024. **CCF A类会议**
 * Luo Ji#, Jiayu Mao#, **Hailong Shi** *, Qian Li, Hongxia Yang. An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation, The 46th European Conference on Information Retrieval (ECIR2024), Glasgow, Scotland, 24th-28th March, 2024.
 * Wanjin Feng, **Hailong Shi**, Peilin Zhao, Xingyu Gao *. Mixtron: Bandit Online Multiclass Prediction with Implicit Feedback, International Conference on Data Mining (ICDM2023), Shanghai, China, 1th-4th December, 2023.
 
