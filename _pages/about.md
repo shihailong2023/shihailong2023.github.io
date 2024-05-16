@@ -12,13 +12,13 @@ redirect_from:
 ## 个人简介
 **石海龙**，博士，中国科学院微电子研究所青年研究员，博士生导师，中科院高层次人才引进，曾任职于中科院计算所、京东、阿里，担任国家自然科学基金项目评审专家，IEEE TNNLS、ACM TOMM、AAAI、IJCAI、ACM Multimedia 等国际期刊和会议审稿人。主要研究兴趣包括计算机视觉、多模态内容理解、类脑智能、大模型、数据挖掘与信息检索等，在 IEEE TCSVT、ACM TIST、IJCAI等重要期刊和会议上发表论文30余篇，申请发明专利20余项，主持或作为技术负责人承担过多项国家自然科学基金、国家科技重大专项、中科院先导专项、国家电网科技等项目。
 
+
 ## 研究方向
 * **计算机视觉**：研究面向复杂环境（如暗光环境、雨雪天气、遮挡等）的图像识别、检测、跟踪、增强等问题。
 * **多模态内容理解**：研究基于语言大模型、多模态大模型等的内容理解、编辑与生成。
 * **类脑智能**：研究下一代类脑智能关键技术（如脉冲神经网络等）的信息表达、模型优化与相关应用。
 * **数据挖掘与信息检索**：研究大规模信息检索系统，包括搜索、推荐、广告等。
 
-<br>**<font color=Red>本课题组每年招收3名博士生，5名硕士生，长期招收联合培养学生，欢迎联系：shihailong@ime.ac.cn</font>**
 
 ## 近三年代表性论文
 * Xingyu Gao, Zuolei Li, Zhenyu Chen, Peilin Zhao, **Hailong Shi** *. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024. **<font color=Red>SCI 1区期刊，IF:8.4，通讯作者</font>**
