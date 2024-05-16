@@ -82,11 +82,10 @@ analytics:
 author: 
   name             : "石海龙"
   avatar           : "profile.jpg"
-  bio              : "<b>青年研究员</b>
-                     <br><b>博士生导师</b>
+  bio              : "<b>青年研究员 博士生导师</b>
                      <br>中国科学院微电子研究所
                      <br><br><font color='red'>本课题组每年招收<b>3名博士生，5名硕士生</b>，长期招收联合培养学生，欢迎联系!</font>
-                     <br><br>Email: <b>shihailong@ime.ac.cn</b>"
+                     <br><br><b>Email: shihailong@ime.ac.cn</b>"
   location         : #"Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
