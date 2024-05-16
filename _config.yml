@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "石海龙"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Hailong Shi"
 description              : &description "Researcher in IME@CAS, Beijing, China"
