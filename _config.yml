@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author: 
-  name             : "<center>石海龙</center>"
+  name             : "石海龙"
   avatar           : "profile.jpg"
-  bio              : "<center>青年研究员 博士生导师<br>中国科学院微电子研究所<br><br>Email:shihailong@ime.ac.cn</center>"
+  bio              : "青年研究员 博士生导师<br>中国科学院微电子研究所<br><br>shihailong@ime.ac.cn"
   location         : #"Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
