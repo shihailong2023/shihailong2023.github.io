@@ -1,4 +1,4 @@
-![image](https://github.com/shihailong2023/shihailong2023.github.io/assets/124500440/4469075e-3d13-4972-8c67-7e0a12dca7d9)---
+---
 permalink: /
 title: "石海龙"
 excerpt: "About me"
@@ -17,8 +17,8 @@ redirect_from:
 
 
 ## Selected Journal Publications
-Huan Li, **_Hailong Shi_***, Xingyu Gao*. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint
+* Huan Li, **_Hailong Shi_***, Xingyu Gao*. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint
 Conference on Artificial Intelligence (IJCAI 2024), Jeju, South Korea, 3th-9th August, 2024.
-Luo Ji, Jiayu Mao, **_Hailong Shi_***, Qian Li, Hongxia Yang. An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation, The 46th European Conference on Information Retrieval (ECIR2024), Glasgow, Scotland, 24th-28th March, 2024.
-Wanjin Feng, **_Hailongshi_**, Peilin Zhao, Xingyu Gao*. Mixtron: Bandit Online Multiclass Prediction with Implicit Feedback, International Conference on Data Mining (ICDM2023), Shanghai, China, 1th-4th December, 2023.
+* Luo Ji, Jiayu Mao, **_Hailong Shi_***, Qian Li, Hongxia Yang. An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation, The 46th European Conference on Information Retrieval (ECIR2024), Glasgow, Scotland, 24th-28th March, 2024.
+* Wanjin Feng, **_Hailongshi_**, Peilin Zhao, Xingyu Gao*. Mixtron: Bandit Online Multiclass Prediction with Implicit Feedback, International Conference on Data Mining (ICDM2023), Shanghai, China, 1th-4th December, 2023.
 
