@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hailong Shi"
+title: "石海龙"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-This is Hailong Shi's personal homepage. Please also refer to my [homepage@UNSW](https://research.unsw.edu.au/people/dr-ze-jiang). 
+这是石海龙的个人主页
 
-## A short introduction
-Ze Jiang is a research associate from the University of New South Wales who specializes in the field of hydro-climatology. His research is centered on understanding the impact of climate change on the water cycle, specifically investigating the effects of global warming on droughts and floods. Ze received his PhD in Water Resources Engineering from UNSW, where he developed an incredibly cool method known as Wavelet System Prediction (WASP), capable of predicting sustained hydro-climate changes. Ze's academic journey started with a B.Eng in Environmental Engineering from Hohai University, China. He then pursued a Joint M.Sc in "EuroAquae - HydroInformatics and Water Management" under the partnership of five European universities. Before relocating to Australia, Ze worked at the National University of Singapore, where he contributed to hydrological and crop modeling for two years.
+## 个人简介
+石海龙，博士，中国科学院微电子研究所青年研究员，博士生导师，中科院高层次人才引进，曾任职于中科院计算所、京东、阿里，担任国家自然科学基金项目评审专家，IEEE TNNLS、ACM TOMM、AAAI、IJCAI、ACM Multimedia 等国际期刊和会议审稿人。主要研究兴趣包括计算机视觉、多模态理解、类脑智能、大模型、数据挖掘与信息检索等，在 IEEE TCSVT、ACM TIST、IJCAI等重要期刊和会议上发表论文30余篇，申请发明专利20余项，主持或作为技术负责人承担过多项国家自然科学基金、国家科技重大专项、中科院先导专项、国家电网科技等项目。
 
 <b>Research Highlights:</b>
 * Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
 
 
 ## Selected Journal Publications
-Jiang, Z., Johnson, F., & Sharma, A. (2023). Do derived drought indices better characterize future drought change? *Earth's Future*, 11(7), e2022EF003350. [link](https://doi.org/10.1029/2022EF003350)
+Huan Li, **_Hailong Shi*_**, Xingyu Gao. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring. The 33rd International Joint
+Conference on Artificial Intelligence (IJCAI 2024).
 
 
 
