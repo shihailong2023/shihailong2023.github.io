@@ -19,9 +19,9 @@ redirect_from:
 * **数据挖掘与信息检索**：研究大规模信息检索系统，包括搜索、推荐、广告等。
 
 ## 近三年代表性论文
+* Xingyu Gao, Zuolei Li, Zhenyu Chen, Peilin Zhao, **Hailong Shi** *. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024. **SCI 1区期刊，IF:8.4，通讯作者**
+* Xingyu Gao, Bocheng Pan, Baobin Zhang, **Hailong Shi** *. Multi-Modal Collaboration Evaluation of Large Language Models via Image Captioning, ACM Transactions on Intelligent Systems and Technology (**TIST**), 2024. **SCI 1区期刊，IF:5，通讯作者**
 * Huan Li, **Hailong Shi** *, Xingyu Gao *. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint
 Conference on Artificial Intelligence (**IJCAI 2024**), Jeju, South Korea, 3th-9th August, 2024. **<font color=Red>CCF A类会议，通讯作者</font>**
 * Luo Ji#, Jiayu Mao#, **Hailong Shi** *, Qian Li, Hongxia Yang. An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation, The 46th European Conference on Information Retrieval (**ECIR2024**), Glasgow, Scotland, 24th-28th March, 2024. **CCF C类会议，通讯作者**
 * Wanjin Feng, **Hailong Shi**, Peilin Zhao, Xingyu Gao *. Mixtron: Bandit Online Multiclass Prediction with Implicit Feedback, International Conference on Data Mining (**ICDM2023**), Shanghai, China, 1th-4th December, 2023. **CCF B类会议**
-
-
