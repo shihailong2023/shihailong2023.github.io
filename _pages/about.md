@@ -18,6 +18,8 @@ redirect_from:
 * **类脑智能**：研究下一代类脑智能关键技术（如脉冲神经网络等）的信息表达、模型优化与相关应用。
 * **数据挖掘与信息检索**：研究大规模信息检索系统，包括搜索、推荐、广告等。
 
+<br>**<font color=Red>本课题组每年招收3名博士生，5名硕士生，长期招收联合培养学生，欢迎联系：shihailong@ime.ac.cn</font>**
+
 ## 近三年代表性论文
 * Xingyu Gao, Zuolei Li, Zhenyu Chen, Peilin Zhao, **Hailong Shi** *. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024. **SCI 1区期刊，IF:8.4，通讯作者**
 * Xingyu Gao, Bocheng Pan, Baobin Zhang, **Hailong Shi** *. Multi-Modal Collaboration Evaluation of Large Language Models via Image Captioning, ACM Transactions on Intelligent Systems and Technology (**TIST**), 2024. **SCI 1区期刊，IF:5，通讯作者**
