@@ -80,11 +80,12 @@ analytics:
 
 # Site Author
 author: 
-  name             : "石海龙"
+  name             : "Hailong Shi"
   avatar           : "profile.jpg"
-  bio              : "<b>青年研究员 博士生导师</b>
-                     <br>中国科学院微电子研究所
-                     <br><br><font color='red'>本课题组每年招收<b>3名博士生，5名硕士生</b>，长期招收联合培养学生，欢迎联系!</font>
+  bio              : "<b>Youth Researcher, Doctoral Supervisor</b>
+                     <br>Institute of Microelectronics, Chinese Academy of Sciences
+                     <br><br><font color='red'>This research group recruits <b>3 doctoral students and 5 master's students</b> each year, 
+                     and we are always looking for students to join us through joint training programs. Feel free to get in touch!</font>
                      <br><br><b>Email: shihailong@ime.ac.cn</b>"
   location         : #"Beijing, China"
   employer         :
