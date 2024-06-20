@@ -10,18 +10,18 @@ redirect_from:
 
 
 ## Profile
-**Hailong Shi**, Ph.D., a youth researcher at the Institute of Microelectronics, Chinese Academy of Sciences, doctoral supervisor, and a high-level talent introduced by the Chinese Academy of Sciences. He has previously held positions at the Institute of Computing Technology, Chinese Academy of Sciences, JD.com, and Alibaba. He serves as a peer reviewer for the National Natural Science Foundation of China and is a reviewer for international journals and conferences such as IEEE TNNLS, ACM TOMM, AAAI, IJCAI, and ACM Multimedia. His main research interests include computer vision, multimodal content understanding, brain-like intelligence, large models, data mining, and information retrieval. He has published over 30 papers in important journals and conferences such as IEEE TCSVT, ACM TIST, and IJCAI, and has applied for more than 20 invention patents. He has led or served as the technical leader for several projects funded by the National Natural Science Foundation of China, major national science and technology projects, the Chinese Academy of Sciences' pioneering projects, and the State Grid's technology projects.
+**Hailong Shi**, Ph.D., a youth researcher at the Institute of Microelectronics, Chinese Academy of Sciences, doctoral supervisor, and a high-level talent introduced by the Chinese Academy of Sciences. He has previously held positions at the Institute of Computing Technology, Chinese Academy of Sciences, JD.com, and Alibaba. He serves as a peer reviewer for the National Natural Science Foundation of China and is a reviewer for international journals and conferences such as IEEE TNNLS, ACM TOMM, AAAI, IJCAI, and ACM Multimedia. His main research interests include computer vision, multimodal content understanding, brain-inspired computing, data mining and information retrieval. He has published over 30 papers in important journals and conferences such as IEEE TCSVT, ACM TIST, and IJCAI, and has applied for more than 20 invention patents. He has led or served as the technical leader for several projects funded by the National Natural Science Foundation of China, Science and Technology Innovation (STI) 2030—Major Projects, the Chinese Academy of Sciences' pioneering projects, and the State Grid's technology projects.
 
 
 ## Research Topics
 * **Computer Vision**: Image recognition, detection, tracking, and enhancement in complex environments (such as low-light conditions, rainy and snowy weather, occlusions, etc.).
-* **Multimodal Content Understanding**: Image/Video understanding, editing, and generation based on language large models, multimodal large models, etc.
-* **Brain-like Intelligence**: Research on key technologies for the next generation of brain-like intelligence (such as spiking neural networks), including information encoding, model design, and applications.
+* **Multimodal Content Understanding**: Image/Video understanding, editing, and generation based on language large models or multimodal large models.
 * **Data Mining and Information Retrieval**: Large-scale information retrieval systems, including search, recommendation, advertising, etc.
+* **Brain-inspired Computing**: Research on key technologies for the next generation of brain-inspired computing, such as spiking neural networks.
 
 
 ## Publications
-* Xingyu Gao, Zuolei Li, Zhenyu Chen, Peilin Zhao, **Hailong Shi** *. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024.
+* Xingyu Gao, Zuolei Li, Zhenyu Chen, Peilin Zhao *, **Hailong Shi** *. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024.
 * Xingyu Gao, Bocheng Pan, Baobin Zhang, **Hailong Shi** *. Multi-Modal Collaboration Evaluation of Large Language Models via Image Captioning, ACM Transactions on Intelligent Systems and Technology (**TIST**), 2024. 
 * Huan Li, **Hailong Shi** *, Xingyu Gao *. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint
 Conference on Artificial Intelligence (**IJCAI 2024**), Jeju, South Korea, 3th-9th August, 2024. 
