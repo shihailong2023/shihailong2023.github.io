@@ -13,7 +13,7 @@ Current Members
 ======
 
 {% for post in site.people reversed %}
-  {% include gallery %}
+  {% include archive-single.html %}
 {% endfor %}
 
 <hr> 
