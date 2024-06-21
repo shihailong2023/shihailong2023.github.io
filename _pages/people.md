@@ -16,6 +16,31 @@ Current Members
   {% include archive-single.html %}
 {% endfor %}
 
+
+<table border="1">
+    <tr>
+        <th>姓名</th>
+        <th>年龄</th>
+        <th>职业</th>
+    </tr>
+    <tr>
+        <td>张三</td>
+        <td>28</td>
+        <td>软件工程师</td>
+    </tr>
+    <tr>
+        <td>李四</td>
+        <td>25</td>
+        <td>产品经理</td>
+    </tr>
+    <tr>
+        <td>王五</td>
+        <td>32</td>
+        <td>项目经理</td>
+    </tr>
+</table>
+
+
 <hr> 
 Collaborators
 ======
