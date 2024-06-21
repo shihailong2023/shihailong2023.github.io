@@ -5,10 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-**项目一**
-* abc
-* edf
-* hij
 
 <hr>
 
