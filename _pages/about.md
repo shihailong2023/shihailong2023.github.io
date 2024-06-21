@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# Hailong Shi
+This is Hailong Shi’s personal homepage.
 
 ## A short introduction
 **Hailong Shi**, Ph.D., a youth researcher at the Institute of Microelectronics, Chinese Academy of Sciences, doctoral supervisor, and a high-level talent introduced by the Chinese Academy of Sciences. He has previously held positions at the Institute of Computing Technology, Chinese Academy of Sciences, JD.com, and Alibaba. He serves as a peer reviewer for the National Natural Science Foundation of China and is a reviewer for international journals and conferences such as IEEE TNNLS, ACM TOMM, AAAI, IJCAI, and ACM Multimedia. His main research interests include computer vision, multimodal content understanding, brain-inspired computing, data mining and information retrieval. He has published over 30 papers in important journals and conferences such as IEEE TCSVT, ACM TIST, and IJCAI, and has applied for more than 20 invention patents. He has led or served as the technical leader for several projects funded by the National Natural Science Foundation of China, Science and Technology Innovation (STI) 2030—Major Projects, the Chinese Academy of Sciences' pioneering projects, and the State Grid's technology projects.
