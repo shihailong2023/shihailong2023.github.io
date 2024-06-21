@@ -27,19 +27,19 @@ Collaboration Mentor
 
 <table border="0">
     <tr>
-        <th class="center-text">A老师 腾讯广告算法Leader</th>
-        <th class="center-text">B老师 蚂蚁金服算法Leader</th>
-        <th class="center-text">C老师 京东广告算法Leader</th>
+        <th class="center-text">A老师 腾讯广告算法Leader<br>研究方向：大模型在推荐中的应用研究<br><img src="/images/profile.jpg" alt="Avatar" class="avatar"/></th>
+        <th class="center-text">B老师 蚂蚁金服算法Leader<br>研究方向：大模型Agent在金融科技中的应用研究<br><img src="/images/profile.jpg" alt="Avatar" class="avatar"/></th>
+        <th class="center-text">C老师 京东广告算法Leader<br>大模型在电商内容理解中的应用研究<br><img src="/images/profile.jpg" alt="Avatar" class="avatar"/></th>
     </tr>
     <tr>
-        <td class="center-text">大模型在推荐中的应用研究</td>
-        <td class="center-text">大模型Agent在金融科技中的应用研究</td>
-        <td class="center-text">大模型在电商内容理解中的应用研究</td>
+        <td class="center-text">A老师 腾讯广告算法Leader<br>研究方向：大模型在推荐中的应用研究<br><img src="/images/profile.jpg" alt="Avatar" class="avatar"/></td>
+        <td class="center-text">A老师 腾讯广告算法Leader<br>研究方向：大模型在推荐中的应用研究<br><img src="/images/profile.jpg" alt="Avatar" class="avatar"/></td>
+        <td class="center-text">A老师 腾讯广告算法Leader<br>研究方向：大模型在推荐中的应用研究<br><img src="/images/profile.jpg" alt="Avatar" class="avatar"/></td>
     </tr>
     <tr>
-        <td class="center-text"><img src="/images/profile.jpg" alt="Avatar" class="avatar"/></td>
-        <td class="center-text"><img src="/images/profile.jpg" alt="Avatar" class="avatar"/></td>
-        <td class="center-text"><img src="/images/profile.jpg" alt="Avatar" class="avatar"/></td>
+        <td class="center-text">A老师 腾讯广告算法Leader<br>研究方向：大模型在推荐中的应用研究<br><img src="/images/profile.jpg" alt="Avatar" class="avatar"/></td>
+        <td class="center-text">A老师 腾讯广告算法Leader<br>研究方向：大模型在推荐中的应用研究<br><img src="/images/profile.jpg" alt="Avatar" class="avatar"/></td>
+        <td class="center-text">A老师 腾讯广告算法Leader<br>研究方向：大模型在推荐中的应用研究<br><img src="/images/profile.jpg" alt="Avatar" class="avatar"/></td>
     </tr>
 </table>
 
