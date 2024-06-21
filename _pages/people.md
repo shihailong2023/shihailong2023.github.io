@@ -9,7 +9,7 @@ author_profile: true
 
 Hydro-Meteo-Envir Group (HME@EDU) is part of the [Team]() of the [School](), a research and service center at the [University]().
 
-Corporate Collaboration Mentor
+Collaboration Mentor
 ======
 
 <style>
@@ -27,14 +27,9 @@ Corporate Collaboration Mentor
 
 <table border="0">
     <tr>
-        <th class="center-text">A老师</th>
-        <th class="center-text">B老师</th>
-        <th class="center-text">C老师</th>
-    </tr>
-    <tr>
-        <td class="center-text">腾讯</td>
-        <td class="center-text">蚂蚁</td>
-        <td class="center-text">京东</td>
+        <th class="center-text">A老师 腾讯广告算法Leader</th>
+        <th class="center-text">B老师 蚂蚁金服算法Leader</th>
+        <th class="center-text">C老师 京东广告算法Leader</th>
     </tr>
     <tr>
         <td class="center-text">大模型在推荐中的应用研究</td>
@@ -61,8 +56,8 @@ Ph.D. student
     </tr>
     <tr>
         <td class="center-text">研究方向：大模型在推荐中的应用研究</td>
-        <td class="center-text">研究方向大模型Agent在金融科技中的应用研究</td>
-        <td class="center-text">研究方向大模型在电商内容理解中的应用研究</td>
+        <td class="center-text">研究方向：大模型Agent在金融科技中的应用研究</td>
+        <td class="center-text">研究方向：大模型在电商内容理解中的应用研究</td>
     </tr>
     <tr>
         <td class="center-text"><img src="/images/profile.jpg" alt="Avatar" class="avatar"/></td>
@@ -84,8 +79,8 @@ Master's student
     </tr>
     <tr>
         <td class="center-text">研究方向：大模型在推荐中的应用研究</td>
-        <td class="center-text">研究方向大模型Agent在金融科技中的应用研究</td>
-        <td class="center-text">研究方向大模型在电商内容理解中的应用研究</td>
+        <td class="center-text">研究方向：大模型Agent在金融科技中的应用研究</td>
+        <td class="center-text">研究方向：大模型在电商内容理解中的应用研究</td>
     </tr>
     <tr>
         <td class="center-text"><img src="/images/profile.jpg" alt="Avatar" class="avatar"/></td>
