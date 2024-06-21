@@ -19,24 +19,19 @@ Current Members
 
 <table border="1">
     <tr>
-        <th>姓名</th>
-        <th>年龄</th>
-        <th>职业</th>
+        <th>A老师</th>
+        <th>B老师</th>
+        <th>C老师</th>
     </tr>
     <tr>
-        <td>张三</td>
-        <td>28</td>
-        <td>软件工程师</td>
+        <td>腾讯</td>
+        <td>蚂蚁</td>
+        <td>京东</td>
     </tr>
     <tr>
-        <td>李四</td>
-        <td>25</td>
-        <td>产品经理</td>
-    </tr>
-    <tr>
-        <td>王五</td>
-        <td>32</td>
-        <td>项目经理</td>
+        <td>大模型在推荐中的应用研究</td>
+        <td>大模型Agent在金融科技中的应用研究</td>
+        <td>大模型在电商内容理解中的应用研究</td>
     </tr>
 </table>
 
