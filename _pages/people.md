@@ -16,22 +16,28 @@ Current Members
   {% include archive-single.html %}
 {% endfor %}
 
+<style>
+.center-text {
+  text-align: center; /* 水平居中 */
+  vertical-align: middle; /* 垂直居中 */
+}
+</style>
 
-<table border="1">
+<table border="0">
     <tr>
-        <th>A老师</th>
-        <th>B老师</th>
-        <th>C老师</th>
+        <th class="center-text">A老师</th>
+        <th class="center-text">B老师</th>
+        <th class="center-text">C老师</th>
     </tr>
     <tr>
-        <td>腾讯</td>
-        <td>蚂蚁</td>
-        <td>京东</td>
+        <td class="center-text">腾讯</td>
+        <td class="center-text">蚂蚁</td>
+        <td class="center-text">京东</td>
     </tr>
     <tr>
-        <td>大模型在推荐中的应用研究</td>
-        <td>大模型Agent在金融科技中的应用研究</td>
-        <td>大模型在电商内容理解中的应用研究</td>
+        <td class="center-text">大模型在推荐中的应用研究</td>
+        <td class="center-text">大模型Agent在金融科技中的应用研究</td>
+        <td class="center-text">大模型在电商内容理解中的应用研究</td>
     </tr>
 </table>
 
