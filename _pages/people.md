@@ -32,9 +32,7 @@ Collaboration Mentor
         <th class="center-text">C老师 京东广告算法Leader<br>大模型在电商内容理解中的应用研究<br><img src="/images/profile.jpg" alt="Avatar" class="avatar"/></th>
     </tr>
     <tr>
-        <td><br><br></td>
-        <td></td>
-        <td></td>
+        <br><br>
     </tr>
     <tr>
         <td class="center-text"></td>
