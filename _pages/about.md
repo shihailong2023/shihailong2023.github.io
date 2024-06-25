@@ -24,7 +24,7 @@ This is Hailong Shi’s personal homepage.
 
 ## Selected Publications
 * Xingyu Gao, Zuolei Li, **Hailong Shi** *, Peilin Zhao *, Steven C.H. Hoi. Adaptive Conditional Neural Processes for Few-Shot Food Recognition, IEEE Transactions on Image Processing (**TIP**), 2024.
-* Xingyu Gao, Zuolei Li, Zhenyu Chen, Peilin Zhao *, **Hailong Shi** *. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024.
+* Xingyu Gao, Zuolei Li, **Hailong Shi** *, Zhenyu Chen, Peilin Zhao *. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024.
 * Xingyu Gao, Bocheng Pan, Baobin Zhang, **Hailong Shi** *. Multi-Modal Collaboration Evaluation of Large Language Models via Image Captioning, ACM Transactions on Intelligent Systems and Technology (**TIST**), 2024. 
 * Huan Li, **Hailong Shi** *, Xingyu Gao *. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint
 Conference on Artificial Intelligence (**IJCAI 2024**), Jeju, South Korea, 3th-9th August, 2024. 
