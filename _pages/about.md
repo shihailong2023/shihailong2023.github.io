@@ -24,10 +24,10 @@ This is Hailong Shi’s personal homepage.
 
 
 ## Selected Publications
+* Xingyu Gao, Zuolei Li, **Hailong Shi** *, Zhenyu Chen, Peilin Zhao *. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024.
 * Xingyu Gao, Zuolei Li, **Hailong Shi** *, Peilin Zhao *, Steven C.H. Hoi. Adaptive Conditional Neural Processes for Few-Shot Food Recognition, IEEE Transactions on Image Processing (**TIP**), 2024.
 * Xingyu Gao, Bocheng Pan, Baobin Zhang, **Hailong Shi** *. Multi-Modal Collaboration Evaluation of Large Language Models via Image Captioning, ACM Transactions on Intelligent Systems and Technology (**TIST**), 2024.
 * Hang Ran, Xingyu Gao, Lusi Li, Weijun Li, Songsong Tian, Gang Wang, **Hailong Shi**, Xin Ning. Brain-Inspired Fast- and Slow-Update Prompt Tuning for Few-Shot Class-Incremental Learning, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024.
-* Xingyu Gao, Zuolei Li, **Hailong Shi** *, Zhenyu Chen, Peilin Zhao *. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024.
 * Qi Guo, **Hailong Shi** *, Huan Li, Jinsheng Xiao, Xingyu Gao *. REDIR: Refocus-free Event-based De-occlusion Image Reconstruction, The 18th European Conference on Computer Vision (**ECCV 2024**), MiCo Milano, Italy, Sep 29th-Oct 4th, 2024.
 * Huan Li, **Hailong Shi** *, Xingyu Gao *. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint Conference on Artificial Intelligence (**IJCAI 2024**), Jeju, South Korea, 3th-9th August, 2024. 
 * Luo Ji#, Jiayu Mao#, **Hailong Shi** *, Qian Li, Hongxia Yang. An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation, The 46th European Conference on Information Retrieval (**ECIR2024**), Glasgow, Scotland, 24th-28th March, 2024. 
