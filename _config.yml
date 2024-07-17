@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. "
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Hailong Shi"
 description              : # &description "ARC Industry Fellow | Research Associate, Sydney, Australia"
@@ -82,7 +82,10 @@ analytics:
 author: 
   name             : "Hailong Shi"
   avatar           : "shihailong.jpg"
-  bio              : # "ARC Industry Fellow | Research Associate"
+  bio              : "Youth researcher, doctoral supervisor <br>
+                      Institute of Microelectronics, Chinese Academy of Sciences. <br>
+                      Our research group recruits 2-3 doctoral students and 4-5 master's students each year. Welcome to contact us.<br>
+                      shihailong@ime.ac.cn"
   location         : # "Sydney, Australia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
