@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ze Jiang"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,32 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-This is Ze Jiang's personal homepage. Please also refer to my [homepage@UNSW](https://research.unsw.edu.au/people/dr-ze-jiang). 
+# Hailong Shi
+This is Hailong Shi’s personal homepage.
 
-## A short introduction
-Dr. Ze Jiang is an Australian Research Council (ARC) Early Career Industry Fellow, in partnership with WaterNSW, and a research associate at the University of New South Wales (UNSW) in Sydney, specializing in hydroclimate extremes modelling and forecasting. With a Ph.D. in Water Resources Engineering from UNSW, obtained in 2021, Dr. Jiang's doctoral research led to the development of a novel method called Wavelet System Prediction (WASP), capable of predicting hydroclimate extremes. Dr. Jiang's academic journey began with a bachelor's degree in Environmental Engineering from Hohai University in China in 2012, followed by a Joint M.Sc. program called "EuroAquae - HydroInformatics and Water Management", a partnership between five European universities. Before his doctoral studies, he gained valuable professional experience working for two years at the National University of Singapore (NUS). In 2023, Dr. Jiang further expanded his research horizons as a visiting research fellow at GFZ-Potsdam in Germany, supported by the Helmholtz Information & Data Science Academy (HIDA) grant.
+## Short Introduction
+**Hailong Shi**, Ph.D., a youth researcher at the Institute of Microelectronics, Chinese Academy of Sciences, doctoral supervisor, and a high-level talent introduced by the Chinese Academy of Sciences. He has previously held positions at the Institute of Computing Technology, Chinese Academy of Sciences, JD.com, and Alibaba. He serves as a peer reviewer for the National Natural Science Foundation of China and is a reviewer for international journals and conferences such as IEEE TNNLS, ACM TOMM, AAAI, IJCAI, and ACM Multimedia. His main research interests include computer vision, multimodal content understanding, brain-inspired computing, data mining and information retrieval. He has published over 30 papers in important journals and conferences such as IEEE-TIP, IEEE-TCSVT, ACM-TIST, and IJCAI, and has applied for more than 20 invention patents. He has led or served as the technical leader for several projects funded by the National Natural Science Foundation of China, Science and Technology Innovation (STI) 2030—Major Projects, the Chinese Academy of Sciences' pioneering projects, and the State Grid's technology projects.
 
-<b>Research Highlights:</b>
-* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydroclimate extremes modelling and forecasting
-* An [open-source tool](https://cran.r-project.org/web/packages/WASP/index.html) for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
-* Development of a [postprocessing method](https://doi.org/10.1175/MWR-D-22-0217.1) and [software](https://zejiang-unsw.github.io/software/WQM/) for correcting bias in Numerical Weather Predictions in the time-frequency domain
-* Quantification of future changes in [drought](https://doi.org/10.1029/2022EF003350) and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
 
-## Selected Journal Publications
-Jiang, Z., Johnson, F., & Sharma, A. (2023). Do derived drought indices better characterize future drought change? *Earth's Future*, 11(7), e2022EF003350. [link](https://doi.org/10.1029/2022EF003350)
+## Research Interests
+* **Computer Vision**: Image recognition, detection, tracking, and enhancement in complex environments (such as low-light conditions, rainy and snowy weather, occlusions, etc.).
+* **Multimodal Content Understanding**: Cross-modal data fusion, multimodal learning algorithms, content semantic understanding, and knowledge representation.
+* **Generative AI**: Including image-to-text, text-to-image/video, image/video editing, large model evaluation.
+* **Data Mining and Retrieval**: Large-scale information retrieval systems, including search, recommendation, advertising, etc.
+* **Brain-inspired Computing**: Research on key technologies for the next generation of brain-inspired computing, such as spiking neural networks.
 
-Jiang, Z., & Johnson, F. (2023). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *Monthly Weather Review*, 151(8): 1909-1925. [link](https://doi.org/10.1175/MWR-D-22-0217.1)
 
-Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
-
-Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. [link](https://doi.org/10.1016/j.envsoft.2020.104907)
-
-Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling. *Water Resources Research*, 56(3), e2019WR026962. [link](https://doi.org/10.1029/2019WR026962)
-
-Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-climatological change detection methods to model uncertainty and bias. *Advances in Water Resources*, 134, 103430. [link](https://doi.org/10.1016/j.advwatres.2019.103430)
-
-Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. [link](https://doi.org/10.1007/s00704-018-2617-z)
-
-## For more information
-More info about Ze Jiang can be found in [CV](https://zejiang-unsw.github.io/cv/) or [downloaded CV](http://zejiang-unsw.github.io/files/CV_ZeJIANG.pdf).
+## Selected Publications
+* Xingyu Gao, Zuolei Li, **Hailong Shi** *, Peilin Zhao *, Steven C.H. Hoi. Adaptive Conditional Neural Processes for Few-Shot Food Recognition, IEEE Transactions on Image Processing (**TIP**), 2024.
+* Xingyu Gao, Bocheng Pan, Baobin Zhang, **Hailong Shi** *. Multi-Modal Collaboration Evaluation of Large Language Models via Image Captioning, ACM Transactions on Intelligent Systems and Technology (**TIST**), 2024.
+* Hang Ran, Xingyu Gao, Lusi Li, Weijun Li, Songsong Tian, Gang Wang, **Hailong Shi**, Xin Ning. Brain-Inspired Fast- and Slow-Update Prompt Tuning for Few-Shot Class-Incremental Learning, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024.
+* Xingyu Gao, Zuolei Li, **Hailong Shi** *, Zhenyu Chen, Peilin Zhao *. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024.
+* Qi Guo, **Hailong Shi** *, Huan Li, Jinsheng Xiao, Xingyu Gao *. REDIR: Refocus-free Event-based De-occlusion Image Reconstruction, The 18th European Conference on Computer Vision (**ECCV 2024**), MiCo Milano, Italy, Sep 29th-Oct 4th, 2024.
+* Huan Li, **Hailong Shi** *, Xingyu Gao *. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint Conference on Artificial Intelligence (**IJCAI 2024**), Jeju, South Korea, 3th-9th August, 2024. 
+* Luo Ji#, Jiayu Mao#, **Hailong Shi** *, Qian Li, Hongxia Yang. An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation, The 46th European Conference on Information Retrieval (**ECIR2024**), Glasgow, Scotland, 24th-28th March, 2024. 
+* Wanjin Feng, **Hailong Shi**, Peilin Zhao, Xingyu Gao. Mixtron: Bandit Online Multiclass Prediction with Implicit Feedback, International Conference on Data Mining (**ICDM2023**), Shanghai, China, 1th-4th December, 2023. 
