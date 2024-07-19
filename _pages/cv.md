@@ -8,22 +8,22 @@ redirect_from:
 
 {% include base_path %}
 
-Download [CV](http://zejiang-unsw.github.io/files/CV_ZeJIANG.pdf)
+个人简介
 ======
+**石海龙**，博士，中国科学院微电子研究所青年研究员，博士生导师，中国科学院高层次人才引进计划，曾任职于中科院计算所、京东、阿里，担任国家自然科学基金项目评审专家，IEEE TNNLS、ACM TOMM、AAAI、IJCAI、ACM Multimedia等国际期刊和会议审稿人。主要研究兴趣包括计算机视觉、多模态内容理解、数据挖掘与信息检索、生成式人工智能、类脑智能等，在IEEE-TCSVT、IEEE-TNNLS、ACM-TIST、IJCAI、ECCV等重要期刊和会议上发表论文30余篇，申请发明专利20余项，主持或作为技术负责人承担过多项国家自然科学基金、国家科技重大专项、中科院先导专项、国家电网科技等项目。
 
-Education
+工作经历
 ======
-* B.Eng. in Environmental Engineering, Hohai University, Nanjing, China, 2012
-* M.Sc. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
-* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
+* 2023.07-至今，中国科学院微电子研究所（中科院高层次人才引进），青年研究员，博士生导师
+* 2019.11-2023.05，阿里巴巴集团，智能零售算法团队负责人
+* 2018.03-2019.11，京东集团，IoT事业部，算法团队负责人
+* 2015.01-2018.02，中国科学院计算技术研究所，助理研究员
 
-Research Interests
+教育经历
 ======
-* Hydro-climate extremes modelling and forecasting (e.g. Wavelet System Prediction)
-* Postprocessing techniques for correcting bias in climate and weather prediction models
-* Climate change impact on the water cycle (e.g. floods and droughts)
-* Hydrology/Hydraulics and water quality modelling
-* Hydro-Informatics and water management
+* 2010.09-2015.01，中国科学院计算技术研究所，物联网&机器学习，博士
+* 2004.09-2010.06，武汉大学，电子信息学院，通信工程/通信与信息系统，本科/硕士
+
 
 Research Highlights
 ======
