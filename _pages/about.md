@@ -22,8 +22,8 @@ This is Hailong Shi’s personal homepage.
 * January 2015 - February 2018, Institute of Computing Technology, Chinese Academy of Sciences, Assistant Researcher
 
 ## Education
-* September 2010 - January 2015, Institute of Computing Technology, Chinese Academy of Sciences, Internet of Things & Machine Learning, Doctorate
-* September 2004 - June 2010, Wuhan University, School of Electronic Information, Communication Engineering/Communication and Information Systems, Bachelor's/Master's Degree
+* September 2010 - January 2015, Institute of Computing Technology, Chinese Academy of Sciences, Ph.D
+* September 2004 - June 2010, Wuhan University, School of Electronic Information, Bachelor's and Master's Degree
 
 ## Research Interests
 * **Computer Vision**: Image recognition, detection, tracking, and enhancement in complex environments (such as low-light conditions, rainy and snowy weather, occlusions, etc.).
