@@ -16,7 +16,7 @@ This is Hailong Shi’s personal homepage.
 
 
 ## Professional Experience
-* July 2023 - Present, Institute of Microelectronics, Chinese Academy of Sciences (high-level talent introduction by CAS), Youth Researcher, PhD Supervisor
+* July 2023 - Present, Institute of Microelectronics, Chinese Academy of Sciences (high-level talent introduced by CAS), Youth Researcher, PhD Supervisor
 * November 2019 - June 2023, Alibaba Group, Head of Intelligent Retail Algorithm Team
 * March 2018 - November 2019, JD.com, Head of IoT Business Unit Algorithm Team
 * January 2015 - February 2018, Institute of Computing Technology, Chinese Academy of Sciences, Assistant Researcher
