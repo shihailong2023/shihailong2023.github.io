@@ -12,6 +12,11 @@ redirect_from:
 ======
 **石海龙**，博士，中国科学院微电子研究所青年研究员，博士生导师，中国科学院高层次人才引进计划，曾任职于中科院计算所、京东、阿里，担任国家自然科学基金项目评审专家，IEEE TNNLS、ACM TOMM、AAAI、IJCAI、ACM Multimedia等国际期刊和会议审稿人。主要研究兴趣包括计算机视觉、多模态内容理解、数据挖掘与信息检索、生成式人工智能、类脑智能等，在IEEE-TCSVT、IEEE-TNNLS、ACM-TIST、IJCAI、ECCV等重要期刊和会议上发表论文30余篇，申请发明专利20余项，主持或作为技术负责人承担过多项国家自然科学基金、国家科技重大专项、中科院先导专项、国家电网科技等项目。
 
+招生情况
+======
+* **<p style="color:red;">团队与工业界联系紧密，优秀学生可到微软、腾讯、阿里、美团、京东、快手等大厂实习，成果不错的博士生可出国交流。</p>**
+* **<p style="color:red;">团队每年招收2-3名博士生，4-5名硕士生，不定期招收联合培养学生。欢迎联系：shihailong@ime.ac.cn</p>**
+
 工作经历
 ======
 * 2023.07-至今，中国科学院微电子研究所（中科院高层次人才引进），青年研究员，博士生导师
@@ -24,110 +29,14 @@ redirect_from:
 * 2010.09-2015.01，中国科学院计算技术研究所，物联网&机器学习，博士
 * 2004.09-2010.06，武汉大学，电子信息学院，通信工程/通信与信息系统，本科/硕士
 
-
-Research Highlights
+研究方向
 ======
-* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydroclimate extremes modelling and forecasting
-* An [open-source tool](https://cran.r-project.org/web/packages/WASP/index.html) for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
-* Development of a [postprocessing method](https://doi.org/10.1175/MWR-D-22-0217.1) for correcting bias in Numerical Weather Predictions in the time-frequency domain
-* Quantification of future changes in [drought](https://doi.org/10.1029/2022EF003350) and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
+* **计算机视觉：**
+* **多模态内容理解：**
+* **数据挖掘与信息检索：**
+* **生成式人工智能：**
+* **类脑智能：**
 
-Professional Experience
+代表性论文
 ======
-* Jun. 2021 - Current: Research Associate
-  * Water Research Centre, University of New South Wales, Sydney, Australia
-  * Duties included: 
-	+ The development of Wavelet System Prediction (WASP) for characterizing chaotic system
-    + Hydro-climatological forecasting using CMIP decadal and ACCESS seasonal forecasts
-    + Interannual rainfall forecasting with CMIP6 decadal projections over Australia
-    + Bias characterisation and correction in Numerical Weather Prediction (NWP) models
-  * Supervisors: Prof. [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en) and A/Prof. [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en)
-
-* Aug. 2023 - Current: Guest Scientist
-* May 2023 - Jul. 2023: Scientist
-  * Helmholtz-Centre Potsdam - German Research Centre (GFZ), Potsdam, Brandenburg, Germany
-  * Duties included: 
-	+ Climate-informed Flood Frequency Analysis under a changing climate
-  * Supervisor: Prof. Dr. [Bruno Merz](https://www.gfz-potsdam.de/en/staff/bruno.merz/sec44)
-
-* Nov. 2015 - Feb. 2018: Research Assistant/Engineer
-  * Tropical Marine Science Institute, National University of Singapore, Singapore
-  * Duties included: 
-	+ DSSAT crop modeling of future rice yield in Vietnam under climate change, Singapore-MIT Alliance project.
-	+ Development of index-based drought insurance for sovereign disaster risk transfer, International Finance Corporation, World Bank project. 
-	+ Impact of climate change on inland and coastal flooding in Singapore, Public Utilities Board (PUB) project.
-	+ Effectiveness of ABC Waters design features in residential developments, PUB-TMSI-Monash University project.
-  * Supervisor: Prof. [Shie-Yui Liong](https://scholar.google.com.au/citations?user=PvpaEVUAAAAJ&hl=en)
-
-* Mar. 2015 - Sep. 2015: Intern
-  * Ingenieurgesellschaft Prof. Dr. Sieker mbH, Berlin, Germany
-  * Duties included:
-    + Development of the Time-Area function model based on QGIS environment for stormwater management.
-    + Flood modelling and mitigation of Hafar Al-Batin city in Saudi Arabia.   
-  * Supervisors: Prof. [Frank Molkenthin](https://www.b-tu.de/fg-hydrologie/team/mitarbeiter/apl-prof-frank-molkenthin) and Prof. [Heiko Sieker](https://www.sieker.de/aktuelles/news/heiko-sieker-honorarprofessor-an-der-tu-berlin-143.html?no_cache=1)
-
-Awards & Honors
-======
-* 2021, Faculty of Engineering Postdoctoral Writing Fellowship funded by UNSW
-* 2019, OzEWEX Summer Institute Scholarship
-* 2018, University International Postgraduate Award (UIPA) funded by UNSW
-* 2013, Erasmus Mundus Scholarship Award by European Union (EU)
-* 2012, Outstanding graduate of Hohai University, Nanjing
-* 2010, National Undergraduate Mathematical Contest in Modeling (Provincial Award)
-
-Grants & Fellowships
-======
-* 2023-24, **Global Research and Innovation Partnerships (GRIP)** (~$20K AUD, PI), UNSW GLOBAL DIVISION. Title: Index-based Insurance for Agriculture Risk Transfer under a Changing Climate. 
-* 2023, **Helmholtz Visiting Researcher Grant** (~$20K EUR, PI), Helmholtz Association of German Research Centers. Title: A novel method to estimate flood extremes using spectrally transformed climate information.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
- 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Languages
-======
-Mandarin(Native), English(Fluent), German(Basic), French(Basic)
-
-Skills & Expertise 
-======
-* Statistical hydrology and water resource engineering.
-* Strong interpersonal skills with a good sense of teamwork. 
-* Programming Skills: R, C/C++, and Python in both Unix and Windows systems.
-* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
-
-Service & Leadership
-======
-* Contribute to the First/Second Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6 and SOD-WGI-AR6) as a group reviewer
-* AOGS Hydrological Sciences Session (HS13) main convener: [Statistical Methods in Assessing Hydroclimate Extremes Under Changing Climate](https://www.asiaoceania.org/society/public.asp?page=SessionList_24.asp)
-* Topic Coordinator for a [Special Issue of Frontiers in Marine Science](https://www.frontiersin.org/research-topics/46827/toxicological-endpoints-and-bioavailability-of-emerging-contaminants-and-their-impacts-on-marine-nut)
-* Reviewer Editor: 
-  + Frontiers in Water (Sections: Water and Climate; Water and Hydrocomplexity)
-* Reviewer for Scholarly Journals: 
-  + Journal of Hydrology, Environmental Modelling & Software, and Weather and Climate Extremes
-  + International Journal of River Basin Management 
-  + Journal of Applied Meteorology and Climatology
-  + Frontiers in Water; Water; Sustainability; International Journal of Environmental Research and Public Health
-
-Membership
-======
-* American Geophysical Union (AGU)
-* European Geosciences Union (EGU) 
-* Asia Oceania Geosciences Society (AOGS)
-* International Union of Geodesy and Geophysics (IUGG)
-* International Commission of Statistical Hydrology (ICSH-IAHS)
-* Modeling and Simulation Society of Australia and New Zealand (MSSANZ)
+* 
