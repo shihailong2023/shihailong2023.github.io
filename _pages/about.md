@@ -15,6 +15,16 @@ This is Hailong Shi’s personal homepage.
 **Hailong Shi**, Ph.D., a youth researcher at the Institute of Microelectronics, Chinese Academy of Sciences, doctoral supervisor, and a high-level talent introduced by the Chinese Academy of Sciences. He has previously held positions at the Institute of Computing Technology, Chinese Academy of Sciences, JD.com, and Alibaba. He serves as a peer reviewer for the National Natural Science Foundation of China and is a reviewer for international journals and conferences such as IEEE TNNLS, ACM TOMM, AAAI, IJCAI, and ACM Multimedia. His main research interests include computer vision, multimodal content understanding, brain-inspired computing, data mining and information retrieval. He has published over 30 papers in important journals and conferences such as IEEE-TNNLS，IEEE-TIP, IEEE-TCSVT, ACM-TIST, IJCAI, ECCV and ICDM, and has applied for more than 20 invention patents. He has led or served as the technical leader for several projects funded by the National Natural Science Foundation of China, Science and Technology Innovation (STI) 2030—Major Projects, the Chinese Academy of Sciences' pioneering projects, and the State Grid's technology projects.
 
 
+## Professional Experience
+* July 2023 - Present, Institute of Microelectronics, Chinese Academy of Sciences (high-level talent introduction by CAS), Youth Researcher, PhD Supervisor
+* November 2019 - May 2023, Alibaba Group, Head of Intelligent Retail Algorithm Team
+* March 2018 - November 2019, JD.com, Head of IoT Business Unit Algorithm Team
+* January 2015 - February 2018, Institute of Computing Technology, Chinese Academy of Sciences, Assistant Researcher
+
+## Education
+* September 2010 - January 2015, Institute of Computing Technology, Chinese Academy of Sciences, Internet of Things & Machine Learning, Doctorate
+* September 2004 - June 2010, Wuhan University, School of Electronic Information, Communication Engineering/Communication and Information Systems, Bachelor's/Master's Degree
+
 ## Research Interests
 * **Computer Vision**: Image recognition, detection, tracking, and enhancement in complex environments (such as low-light conditions, rainy and snowy weather, occlusions, etc.).
 * **Multimodal Content Understanding**: Cross-modal data fusion, multimodal learning algorithms, content semantic understanding, and knowledge representation.
@@ -32,3 +42,8 @@ This is Hailong Shi’s personal homepage.
 * Huan Li, **Hailong Shi** *, Xingyu Gao *. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint Conference on Artificial Intelligence (**IJCAI 2024**), Jeju, South Korea, 3th-9th August, 2024. 
 * Luo Ji#, Jiayu Mao#, **Hailong Shi** *, Qian Li, Hongxia Yang. An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation, The 46th European Conference on Information Retrieval (**ECIR2024**), Glasgow, Scotland, 24th-28th March, 2024. 
 * Wanjin Feng, **Hailong Shi**, Peilin Zhao, Xingyu Gao. Mixtron: Bandit Online Multiclass Prediction with Implicit Feedback, International Conference on Data Mining (**ICDM2023**), Shanghai, China, 1th-4th December, 2023. 
+
+
+## Graduate Admissions
+* The team recruits 2-3 doctoral students and 4-5 master's students each year, and occasionally recruits students for joint training programs. For inquiries, please contact: shihailong@ime.ac.cn.
+* The team maintains close ties with the industry, and outstanding students have the opportunity to intern at major companies such as Microsoft, Tencent, Alibaba, Meituan, JD.com, and Kuaishou. Doctoral students with good results may have the opportunity to study abroad.
