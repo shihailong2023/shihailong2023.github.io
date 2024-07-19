@@ -42,8 +42,3 @@ This is Hailong Shi’s personal homepage.
 * Huan Li, **Hailong Shi** *, Xingyu Gao *. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint Conference on Artificial Intelligence (**IJCAI 2024**), Jeju, South Korea, 3th-9th August, 2024. 
 * Luo Ji#, Jiayu Mao#, **Hailong Shi** *, Qian Li, Hongxia Yang. An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation, The 46th European Conference on Information Retrieval (**ECIR2024**), Glasgow, Scotland, 24th-28th March, 2024. 
 * Wanjin Feng, **Hailong Shi**, Peilin Zhao, Xingyu Gao. Mixtron: Bandit Online Multiclass Prediction with Implicit Feedback, International Conference on Data Mining (**ICDM2023**), Shanghai, China, 1th-4th December, 2023. 
-
-
-## Graduate Admissions
-* The team recruits 2-3 doctoral students and 4-5 master's students each year, and occasionally recruits students for joint training programs. For inquiries, please contact: shihailong@ime.ac.cn.
-* The team maintains close ties with the industry, and outstanding students have the opportunity to intern at major companies such as Microsoft, Tencent, Alibaba, Meituan, JD.com, and Kuaishou. Doctoral students with good results may have the opportunity to study abroad.
