@@ -34,7 +34,7 @@ This is Hailong Shi’s personal homepage.
 
 
 ## Selected Publications
-* Xingyu Gao, Zuolei Li *, **Hailong Shi** *, Zhenyu Chen, Peilin Zhao *. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024.
+* Xingyu Gao, Zuolei Li *, **Hailong Shi** *, Zhenyu Chen, Peilin Zhao. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024.
 * Xingyu Gao, Bocheng Pan, Zhenyu Chen, Baobin Zhang, Fei Sun *, **Hailong Shi** *. Multi-Modal Collaboration Evaluation of Large Language Models via Image Captioning, ACM Transactions on Intelligent Systems and Technology (**TIST**), 2024.
 * Hang Ran, Xingyu Gao, Lusi Li, Weijun Li, Songsong Tian, Gang Wang, **Hailong Shi**, Xin Ning. Brain-Inspired Fast- and Slow-Update Prompt Tuning for Few-Shot Class-Incremental Learning, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024.
 * Qi Guo, **Hailong Shi** *, Huan Li, Jinsheng Xiao, Xingyu Gao *. REDIR: Refocus-free Event-based De-occlusion Image Reconstruction, The 18th European Conference on Computer Vision (**ECCV 2024**), MiCo Milano, Italy, Sep 29th-Oct 4th, 2024.
