@@ -39,5 +39,7 @@ This is Hailong Shi’s personal homepage.
 * Xingyu Gao, Zuolei Li *, **Hailong Shi** *, Zhenyu Chen, Peilin Zhao. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024.
 * Xingyu Gao, Bocheng Pan, Zhenyu Chen, Baobin Zhang, Fei Sun *, **Hailong Shi** *. Multi-Modal Collaboration Evaluation of Large Language Models via Image Captioning, ACM Transactions on Intelligent Systems and Technology (**TIST**), 2024.
 * Hang Ran, Xingyu Gao, Lusi Li, Weijun Li, Songsong Tian, Gang Wang, **Hailong Shi**, Xin Ning. Brain-Inspired Fast- and Slow-Update Prompt Tuning for Few-Shot Class-Incremental Learning, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024.
+* Shaojun Zhu, Bincheng Zhu, Kaikai Chi, Jiefan Qiu, **Hailong Shi**, and Xingyu Gao. Maximizing Long-Term Task Completion Ratio of
+UAV-Enabled Wirelessly-Powered MEC Systems, ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2024.
 * Luo Ji#, Jiayu Mao#, **Hailong Shi** *, Qian Li, Hongxia Yang. An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation, The 46th European Conference on Information Retrieval (**ECIR2024**), Glasgow, Scotland, 24th-28th March, 2024. 
 * Wanjin Feng, **Hailong Shi**, Peilin Zhao, Xingyu Gao. Mixtron: Bandit Online Multiclass Prediction with Implicit Feedback, International Conference on Data Mining (**ICDM2023**), Shanghai, China, 1th-4th December, 2023. 
