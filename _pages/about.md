@@ -19,7 +19,7 @@ This is Hailong Shi’s personal homepage.
 * July 2023 - Present, Institute of Microelectronics, Chinese Academy of Sciences (high-level talent introduced by CAS), Associate Professor, PhD Supervisor
 * November 2019 - June 2023, Alibaba Group, Head of Intelligent Retail Algorithm Team
 * March 2018 - November 2019, JD.com, Head of IoT Business Unit Algorithm Team
-* January 2015 - February 2018, Institute of Computing Technology, Chinese Academy of Sciences, Assistant Researcher
+* January 2015 - February 2018, Institute of Computing Technology, Chinese Academy of Sciences, Assistant Professor
 
 ## Education
 * September 2010 - January 2015, Institute of Computing Technology, Chinese Academy of Sciences, Ph.D
@@ -34,11 +34,11 @@ This is Hailong Shi’s personal homepage.
 
 
 ## Selected Publications
-* **\[IJCAI 2024\]** Huan Li, **Hailong Shi**\*, Xingyu Gao\*. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint Conference on Artificial Intelligence, Jeju, South Korea, 3th-9th August, 2024. **CCF-A**
-* **\[ECCV 2024\]** Qi Guo, **Hailong Shi**\*, Huan Li, Jinsheng Xiao, Xingyu Gao\*. REDIR: Refocus-free Event-based De-occlusion Image Reconstruction, The 18th European Conference on Computer Vision, MiCo Milano, Italy, Sep 29th-Oct 4th, 2024. **CCF-B，计算机视觉三大顶会之一**
-* **\[IEEE TCSVT\]** Xingyu Gao, Zuolei Li\*, **Hailong Shi**\*, Zhenyu Chen, Peilin Zhao. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology, 2024. **SCI一区，影响因子8.3**
+* **\[IJCAI 2024\]** Huan Li, **Hailong Shi**\*, Xingyu Gao. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint Conference on Artificial Intelligence, Jeju, South Korea, 3th-9th August, 2024. **CCF-A**
+* **\[ECCV 2024\]** Qi Guo, **Hailong Shi**\*, Huan Li, Jinsheng Xiao, Xingyu Gao. REDIR: Refocus-free Event-based De-occlusion Image Reconstruction, The 18th European Conference on Computer Vision, MiCo Milano, Italy, Sep 29th-Oct 4th, 2024. **CCF-B，计算机视觉三大顶会之一**
+* **\[IEEE TCSVT\]** Xingyu Gao, Zuolei Li, **Hailong Shi**\*, Zhenyu Chen, Peilin Zhao. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology, 2024. **SCI一区，影响因子8.3**
 * **\[IEEE TNNLS\]** Hang Ran, Xingyu Gao, Lusi Li, Weijun Li, Songsong Tian, Gang Wang, **Hailong Shi**, Xin Ning. Brain-Inspired Fast- and Slow-Update Prompt Tuning for Few-Shot Class-Incremental Learning, IEEE Transactions on Neural Networks and Learning Systems, 2024. **SCI一区，影响因子10.2**
-* **\[ACM TIST\]** Xingyu Gao, Bocheng Pan, Zhenyu Chen, Baobin Zhang, Fei Sun\*, **Hailong Shi**\*. Multi-Modal Collaboration Evaluation of Large Language Models via Image Captioning, ACM Transactions on Intelligent Systems and Technology, 2024. **SCI一区，影响因子7.2**
+* **\[ACM TIST\]** Xingyu Gao, Bocheng Pan, Zhenyu Chen, Baobin Zhang, Fei Sun, **Hailong Shi**\*. Multi-Modal Collaboration Evaluation of Large Language Models via Image Captioning, ACM Transactions on Intelligent Systems and Technology, 2024. **SCI一区，影响因子7.2**
 * **\[ACM TOMM\]** Shaojun Zhu, Bincheng Zhu, Kaikai Chi, Jiefan Qiu, **Hailong Shi**, and Xingyu Gao. Maximizing Long-Term Task Completion Ratio of UAV-Enabled Wirelessly-Powered MEC Systems, ACM Transactions on Multimedia Computing, Communications, and Applications, 2024. **SCI一区，影响因子5.2**
 * **\[ECIR 2024\]** Luo Ji#, Jiayu Mao#, **Hailong Shi**\*, Qian Li, Hongxia Yang. An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation, The 46th European Conference on Information Retrieval, Glasgow, Scotland, 24th-28th March, 2024. **CCF-C**
 * **\[ICDM 2023\]** Wanjin Feng, **Hailong Shi**, Peilin Zhao, Xingyu Gao. Mixtron: Bandit Online Multiclass Prediction with Implicit Feedback, International Conference on Data Mining, Shanghai, China, 1th-4th December, 2023. **CCF-B**
