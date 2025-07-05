@@ -34,6 +34,7 @@ This is Hailong Shi’s personal homepage.
 
 
 ## Selected Publications
+* **\[ACM MM 2025\]** Bocheng Pan, **Hailong Shi**\*, Xingyu Gao. DR-VQA: Decompose-then-Reconstruct for Visual Question Answering in BLV Assistance, ACM International Conference on Multimedia, Dublin, Ireland, 27th-31st October, 2025. **CCF-A**
 * **\[ICML 2025\]** Wanjin Feng, Xingyu Gao, Wenqian Du, **Hailong Shi**, Peilin Zhao, Pengcheng Wu, Chunyan Miao. Efficient Parallel Training Methods for Spiking Neural Networks with Constant Time Complexity, Forty-second International Conference on Machine Learning, Vancouver, Canada, 13th-19th July, 2025. **CCF-A**
 * **\[IEEE TCSVT\]** Xingyu Gao, Zuolei Li, **Hailong Shi**\*, Zhenyu Chen, Peilin Zhao. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology, 2025. **SCI一区，影响因子8.3**
 * **\[ACM TOMM\]** Shaojun Zhu, Bincheng Zhu, Kaikai Chi, Jiefan Qiu, **Hailong Shi**, and Xingyu Gao. Maximizing Long-Term Task Completion Ratio of UAV-Enabled Wirelessly-Powered MEC Systems, ACM Transactions on Multimedia Computing, Communications, and Applications, 2025. **SCI一区，影响因子5.2**
