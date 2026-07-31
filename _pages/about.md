@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-# 个人简介
+
 **石海龙**，博士，中国科学院微电子研究所副研究员，博士生导师，中国科学院高层次人才引进，博士毕业于中国科学院计算技术研究所，前阿里巴巴集团智能零售算法团队负责人、京东集团IoT事业部算法团队负责人。研究方向包括计算机视觉、多模态大模型、具身智能、群体智能等，主持或作为技术负责人承担过多项中国科学院先导专项、国家科技重大专项、973、国家自然科学基金等项目，在IEEE/ACM Transactions和CCF-A等期刊会议上发表论文40余篇，申请发明专利20余项。
 
 
-# 研究与技术方向
+## 研究与技术方向
 * **具身智能**：将真实环境3D扫描重建为含语义标注与物理参数的仿真级场景，为机器人训练提供数据基础设施。打通扫描→标注→USD生成→仿真集成全链路。
 * **计算机视觉**: 复杂环境（低光照、雨雪、遮挡）下的图像识别、检测、跟踪与增强。事件相机、视频分割、行人重识别。CVPR/ECCV/AAAI/IJCAI 等顶会多篇。
 * **多模态内容理解**: 跨模态数据融合、多模态学习算法、内容语义理解与知识表示。大模型多模态协作能力评估（ACM TIST / ACM MM）。
@@ -20,32 +20,30 @@ redirect_from:
 * **类脑智能**: 脉冲神经网络（SNN）高效并行训练方法（ICML 2025）、快慢更新提示调优的少样本增量学习（IEEE TNNLS）。
 
 
-# 8年工业界·算法团队负责人
+## 8年工业界·算法团队负责人
 2018–2023 年先后在京东、阿里巴巴担任算法团队负责人，主导多个核心业务方向的技术研发与落地。
 
-## 智能零售算法团队负责人
-**阿里巴巴集团·2019.11—2023.05**
+**智能零售算法团队负责人·阿里巴巴集团·2019.11—2023.05**
 * 主导推荐与广告方向核心算法研发，覆盖 CTR/CVR 预估、uplift 建模、lookalike 人群扩展
 * 搭建从模型研发到线上 serving 的完整工程体系，支撑亿级用户规模业务场景
 * 将 active learning 等前沿方法引入业务流程，降低标注成本、提升模型迭代效率
 
-## IoT事业部算法团队负责人
-**京东集团 · 2018.03 — 2019.11**
+## IoT事业部算法团队负责人·京东集团·2018.03—2019.11**
 * 负责IoT方向视觉算法研发，涵盖图像识别、目标检测、智能感知
 * 将学术研究成果转化为产品级方案，打通算法→工程→上线的全链路
 
 
-# 代表性项目
+## 代表性项目
 
-## Real2Sim 场景重建平台
+**Real2Sim 场景重建平台**
 
-## 工业级智能推荐与广告系统
+**工业级智能推荐与广告系统**
 
-## IoT智能感知算法系统
+**IoT智能感知算法系统**
 
-# 论文·专利·项目
+## 论文·专利·项目
 
-## 近三年代表性成果
+### 近三年代表性成果
 * **\[ACM MM 2025\]** Bocheng Pan, **Hailong Shi**\*, Xingyu Gao. DR-VQA: Decompose-then-Reconstruct for Visual Question Answering in BLV Assistance, ACM International Conference on Multimedia, Dublin, Ireland, 27th-31st October, 2025. **CCF-A**
 * **\[ICML 2025\]** Wanjin Feng, Xingyu Gao, Wenqian Du, **Hailong Shi**, Peilin Zhao, Pengcheng Wu, Chunyan Miao. Efficient Parallel Training Methods for Spiking Neural Networks with Constant Time Complexity, Forty-second International Conference on Machine Learning, Vancouver, Canada, 13th-19th July, 2025. **CCF-A**
 * **\[IEEE TCSVT\]** Xingyu Gao, Zuolei Li, **Hailong Shi**\*, Zhenyu Chen, Peilin Zhao. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology, 2025. **SCI一区，影响因子8.3**
@@ -59,7 +57,7 @@ redirect_from:
 * **\[ICDM 2023\]** Wanjin Feng, **Hailong Shi**, Peilin Zhao, Xingyu Gao. Mixtron: Bandit Online Multiclass Prediction with Implicit Feedback, International Conference on Data Mining, Shanghai, China, 1th-4th December, 2023. **CCF-B**
 
 
-# 教育 & 工作经历
+## 教育 & 工作经历
 
 2023.07—至今 中国科学院微电子研究所 · 副教授、博士生导师
 中科院高层次引进人才。研究方向：具身智能 Real2Sim、计算机视觉、多模态理解、生成式 AI、类脑计算。
@@ -72,6 +70,6 @@ redirect_from:
 2004.09—2010.06 武汉大学 · 电子信息学院 — 本科/硕士
 
 
-# 合作联系
+## 合作联系
 电话：15210121246（微信同）
 邮箱：shihailong@ime.ac.cn
