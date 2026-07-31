@@ -48,33 +48,40 @@ redirect_from:
 
 
 
-## 论文·专利·项目
+## 进三年代表性成果
 
-### 近三年代表性成果
+**会议论文**
+* **\[KDD 2026\]** Bocheng Pan, **Hailong Sh**\i*, Xingyu Gao. HiST: Hierarchical Semantic Tree Augmentation for Generative Recommendation, The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, Jeju, South Korea, August 9-13, 2026. **CCF-A**
+* **\[CVPR 2026\]** Tong Xu, **Hailong Shi**\*, Xingyu Gao. SCoRe: Salience-Coverage Reduction for Vision Token Pruning in Vision-Language Models, The IEEE/CVF Conference on Computer Vision and Pattern Recognition, Denver, USA, June 3-7, 2026. **CCF-A**
+* **\[ACL 2026\]** Zhuoning Zhu, Xingyu Gao, **Hailong Shi**\*. MENTOR: Mitigating Identity Drift in Dynamic Role-Playing via Dual-Chain Structured Memory, The 64th Annual Meeting of the Association for Computational Linguistics, San Diego, California, July 2-7, 2026.
 * **\[ACM MM 2025\]** Bocheng Pan, **Hailong Shi**\*, Xingyu Gao. DR-VQA: Decompose-then-Reconstruct for Visual Question Answering in BLV Assistance, ACM International Conference on Multimedia, Dublin, Ireland, 27th-31st October, 2025. **CCF-A**
 * **\[ICML 2025\]** Wanjin Feng, Xingyu Gao, Wenqian Du, **Hailong Shi**, Peilin Zhao, Pengcheng Wu, Chunyan Miao. Efficient Parallel Training Methods for Spiking Neural Networks with Constant Time Complexity, Forty-second International Conference on Machine Learning, Vancouver, Canada, 13th-19th July, 2025. **CCF-A**
+* **\[IJCAI 2024\]** Huan Li, **Hailong Shi**\*, Xingyu Gao. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint Conference on Artificial Intelligence, Jeju, South Korea, 3th-9th August, 2024. **CCF-A**
+* **\[ECCV 2024\]** Qi Guo, **Hailong Shi**\*, Huan Li, Jinsheng Xiao, Xingyu Gao. REDIR: Refocus-free Event-based De-occlusion Image Reconstruction, The 18th European Conference on Computer Vision, MiCo Milano, Italy, Sep 29th-Oct 4th, 2024. **计算机视觉三大顶会之一**
+* **\[ECIR 2024\]** Luo Ji#, Jiayu Mao#, **Hailong Shi**\*, Qian Li, Hongxia Yang. An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation, The 46th European Conference on Information Retrieval, Glasgow, Scotland, 24th-28th March, 2024.
+* **\[ICDM 2023\]** Wanjin Feng, **Hailong Shi**, Peilin Zhao, Xingyu Gao. Mixtron: Bandit Online Multiclass Prediction with Implicit Feedback, International Conference on Data Mining, Shanghai, China, 1th-4th December, 2023.
+
+**期刊论文**
+* **\[ACM TIST\]** Qi Guo, Xingyu Gao, Hailong Shi*. Spatiotemporal-Guided Training-Free Urban Partial Vision Restoration, ACM Transactions on Intelligent Systems and Technology, Accepted. **影响因子6.6**
+* **\[ACM TIST\]** Xingyu Gao, Bocheng Pan, Zhenyu Chen, Baobin Zhang, Fei Sun, Hailong Shi*. Multi-Modal Collaboration Evaluation of Large Language Models via Image Captioning, ACM Transactions on Intelligent Systems and Technology, Accepted. **影响因子6.6**
+* **\[ACM TOMM\]** Jiefan Qiu, Dongfu Zhu, Xingyu Gao, Mengqi Jiang, Jiahan Song, Hailong Shi*. mmWave Radar-based Personalized Multi-object Vital Signs Monitoring, ACM Transactions on Multimedia Computing, Communications, and Applications, 2026. **影响因子6.0**
+* **\[IEEE TIFS\]** Jinsheng Xiao, Hao Ma, Ruidi Chen, Xingyu Gao, Hailong Shi*, Zhongyuan Wang. STKPS-Net:Spatio-Temporal Key Patch Selection Network for Anomalous Action Recognition, IEEE Transactions on Information Forensics and Security, 2026. **中科院一区TOP，影响因子8.0，CCF-A**
+* **\[ACM TIOT\]** Bocheng Pan, Hailong Shi*, Xingyu Gao. MPVCD: Multi-Perspective Visual Contrastive Decoding for Reliable Assistance, ACM Transactions on Internet of Things, 2026. **影响因子3.7**
 * **\[IEEE TCSVT\]** Xingyu Gao, Zuolei Li, **Hailong Shi**\*, Zhenyu Chen, Peilin Zhao. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology, 2025. **SCI一区，影响因子8.3**
 * **\[ACM TOMM\]** Shaojun Zhu, Bincheng Zhu, Kaikai Chi, Jiefan Qiu, **Hailong Shi**, and Xingyu Gao. Maximizing Long-Term Task Completion Ratio of UAV-Enabled Wirelessly-Powered MEC Systems, ACM Transactions on Multimedia Computing, Communications, and Applications, 2025. **SCI一区，影响因子5.2**
-* **\[ACM TIST\]** Xingyu Gao, Bocheng Pan, Zhenyu Chen, Baobin Zhang, Fei Sun, **Hailong Shi**\*. Multi-Modal Collaboration Evaluation of Large Language Models via Image Captioning, ACM Transactions on Intelligent Systems and Technology, 2025. **SCI一区，影响因子7.2**
-* **\[Life Sciences\]** Zizheng Suo#, Bocheng Pan#, **Hailong Shi**, Linhui Ma, Yuxiang Zheng, Wenjie Xu, Lina Lin, Enze Zhang, Lijuan Wang, Mingzhu Zhang, Yinyin Qu, Hui Zhenga, Xingyu Gao, Cheng Ni. HL-BscPF: Hybrid learning facilitates brain cell auto-identification in multiple pathologies, Life Sciences, 2025. **SCI一区，影响因子5.2**
-* **\[IJCAI 2024\]** Huan Li, **Hailong Shi**\*, Xingyu Gao. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint Conference on Artificial Intelligence, Jeju, South Korea, 3th-9th August, 2024. **CCF-A**
-* **\[ECCV 2024\]** Qi Guo, **Hailong Shi**\*, Huan Li, Jinsheng Xiao, Xingyu Gao. REDIR: Refocus-free Event-based De-occlusion Image Reconstruction, The 18th European Conference on Computer Vision, MiCo Milano, Italy, Sep 29th-Oct 4th, 2024. **CCF-B，计算机视觉三大顶会之一**
-* **\[ECIR 2024\]** Luo Ji#, Jiayu Mao#, **Hailong Shi**\*, Qian Li, Hongxia Yang. An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation, The 46th European Conference on Information Retrieval, Glasgow, Scotland, 24th-28th March, 2024. **CCF-C**
 * **\[IEEE TNNLS\]** Hang Ran, Xingyu Gao, Lusi Li, Weijun Li, Songsong Tian, Gang Wang, **Hailong Shi**, Xin Ning. Brain-Inspired Fast- and Slow-Update Prompt Tuning for Few-Shot Class-Incremental Learning, IEEE Transactions on Neural Networks and Learning Systems, 2024. **SCI一区，影响因子10.2**
-* **\[ICDM 2023\]** Wanjin Feng, **Hailong Shi**, Peilin Zhao, Xingyu Gao. Mixtron: Bandit Online Multiclass Prediction with Implicit Feedback, International Conference on Data Mining, Shanghai, China, 1th-4th December, 2023. **CCF-B**
+
 
 
 ## 教育 & 工作经历
+* 2023.07—至今 中国科学院微电子研究所，人工智能芯片与系统研发中心，博士生导师，中国科学院高层次人才计划，具身智能课题组负责人
+* 2019.11—2023.05 阿里巴巴集团，智能零售算法团队负责人
+* 2018.03—2019.11 京东集团，IoT事业部算法团队负责人
+* 2015.01—2018.02 中国科学院计算技术研究所，助理研究员
+* 2010.09—2015.01 中国科学院计算技术研究所，博士
+* 2008.09—2010.06 武汉大学，电子信息学院，硕士
+* 2004.09—2008.06 武汉大学，电子信息学院，本科
 
-* 2023.07—至今 中国科学院微电子研究所·博士生导师/课题组长
-中科院高层次引进人才。研究方向：具身智能 Real2Sim、计算机视觉、多模态理解、生成式 AI、类脑计算。
-* 2019.11—2023.05 阿里巴巴集团·智能零售算法团队负责人
-主导推荐与广告核心算法，支撑亿级用户规模业务。
-* 2018.03—2019.11 京东集团·IoT业务算法团队负责人
-负责IoT方向视觉算法研发与产品化落地。
-* 2015.01—2018.02 中国科学院计算技术研究所·助理研究员
-* 2010.09—2015.01 中国科学院计算技术研究所·博士
-* 2004.09—2010.06 武汉大学电子信息学院·本科/硕士
 
 
 ## 合作联系
