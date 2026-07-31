@@ -82,13 +82,11 @@ analytics:
 author: 
   name             : "石海龙"
   avatar           : "shihailong.jpg"
-  bio              : "<b>博士生导师</b><br>
-                      <b>AI中心具身智能组负责人</b><br>
+  bio              : "博士生导师<br>
+                      具身智能组负责人<br>
                       中国科学院微电子研究所<br><br>
-                      <br><br>
-                      <b>邮箱: shihailong@ime.ac.cn</b><br>
-                      <b>微信: shihailong2010</b><br><br>
-                      
+                      邮箱: shihailong@ime.ac.cn<br>
+                      微信: shihailong2010<br>
                       "
   location         : # "Sydney, Australia"
   employer         :
